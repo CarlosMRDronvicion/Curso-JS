@@ -23,8 +23,6 @@ while( carros[i] ){
     i++; 
 }
 
-
-
 console.warn("Do While");
 let j = 0;
 
